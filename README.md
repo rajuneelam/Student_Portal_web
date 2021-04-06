@@ -7,8 +7,8 @@
 
 # Folders
 
-  Screenshot: You can find Screenshot of the applications under Screenshot folder 
+  Screenshot : You can find Screenshot of the applications under Screenshot folder 
 
-  data\srs_db.sql: It contains Data base schema and queries.
+  data\srs_db.sql : It contains Data base schema and queries.
 
-  Stud_Reg_System: It caontains Source code.
+  Stud_Reg_System : It contains Source code.
